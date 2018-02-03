@@ -1,2 +1,2 @@
 # ToDoList
-To Do List Using Spring FrameWork - Practice
+To Do List Using Spring MVC FrameWork - in28Minutes Udemy course
